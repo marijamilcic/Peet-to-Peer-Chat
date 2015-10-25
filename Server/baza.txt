@@ -1,0 +1,4 @@
+izvestaj: Klijent cija je IPadresa:55439je broj:111konvertovao zahtevajuci:BinToDeca zeljeni rezultat je:7.Vreme i datum: 3:0**25.12.2014.izvestaj: Klijent cija je IPadresa:55458je broj:111konvertovao zahtevajuci:BinToDeca zeljeni rezultat je:7.Vreme i datum: 3:3**25.12.2014.
+izvestaj: Klijent cija je IPadresa:/127.0.0.1je broj:9konvertovao zahtevajuci:DecToBina zeljeni rezultat je:9.Vreme i datum: 1:56**25.12.2014.
+izvestaj: Klijent cija je IPadresa:/127.0.0.1je broj:a12konvertovao zahtevajuci:HexToDeca zeljeni rezultat je:2578.Vreme i datum: 1:58**25.12.2014.
+izvestaj: Klijent cija je IPadresa:/127.0.0.1je broj:fff7konvertovao zahtevajuci:HexToDeca zeljeni rezultat je:65527.Vreme i datum: 7:42**25.12.2014.
